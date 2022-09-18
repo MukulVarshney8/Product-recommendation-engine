@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #0a0b13;
+  }
+  .css {
+    background-color: #080530;
+    /* #0a0b13 */
+    margin-top: 20px;
+    border-radius: 5px;
+    color: white;
+    border-bottom: orangered solid 3px;
+    border-right: orangered solid 3px;
+  }
+  .css h1 {
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    background-color: rgb(2, 4, 20);
+    color: white;
+    border-radius: 45px;
+  }
+  .css h1 span {
+    color: rgb(226, 138, 6);
+    font-style: italic;
+    text-shadow: -1px 1px 0 #000, 1px 1px 0 #000, 1px -1px 0 #000,
+      -1px -1px 0 #000;
+  }
+  .main {
+    background-color: #080530;
+    margin-top: 20px;
+    border-radius: 5px;
+    border-bottom: orangered solid 3px;
+    border-right: orangered solid 3px;
+    color: white;
+  }
+  .footer {
+    padding:0;
+    background-color: #212529;
+    color: white;
+    text-align: center;
+    
+  }
+
+  .footer .link a {
+    text-decoration: underline;
+    color: rgb(224, 182, 240);
+    margin-bottom:0;
+    padding-bottom:0;
+  }
+  .card {
+    width: 200px;
+    margin: auto;
+    /* color:#080530; */
+    background-color:#19164b;
+  }
+
+  a{
+    text-decoration: none;
+    color:white;
+
+  }
+  a:hover{
+    color:orangered;
+    
+  }
